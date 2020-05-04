@@ -158,3 +158,4 @@ console.log(4000);
 console.log(!false && true);
 console.log(false && true);
 console.log(32);
+console.log(12+12);
